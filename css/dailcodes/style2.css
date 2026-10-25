@@ -1,0 +1,24 @@
+
+/* parent child rel  */
+/* div>p{
+    color: forestgreen;
+} */
+
+
+
+
+
+
+/* Grouping selector */
+ /* aat all p la color lagel ani bakichyat h3 la fkt color lagel tyachya child la *
+/* div>h3,p{
+    color: deeppink;
+} */
+
+
+/* Adjacent sibling selector */
+/* div+h1{
+    color: darkolivegreen;
+} */
+
+

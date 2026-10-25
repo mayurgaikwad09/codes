@@ -1,0 +1,26 @@
+
+/* class selector aahe bg  */
+.mayu{
+    color: brown;
+}
+.pratik{
+    color: blueviolet;
+}
+
+/* id selector */ id la jast proirity asti brka
+
+#mr{
+    color: blueviolet;
+
+}
+
+#ga{
+    color: aqua;
+}
+
+/* Grouping selector asetyat yachyat */
+ 
+color yeil pn var id selector mule tyala priorty jast aahe na tymule jara jast lagel 
+p h1,h2{
+    color: chartreuse;
+}

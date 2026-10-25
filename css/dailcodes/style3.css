@@ -1,0 +1,8 @@
+
+h1:hover{
+  color: aqua;
+}
+
+li:first-child{
+  color: orange;
+}
