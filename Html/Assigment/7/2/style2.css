@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+h3{
+    color: gold;
+}
+p{
+    color: aliceblue;
+}
+
+.img{
+    border-radius: 0%;
+   background-color: #2B2B2B;
+   height: 300px;
+   width: 400px;
+}
+
+.dis{
+    color: green;
+}

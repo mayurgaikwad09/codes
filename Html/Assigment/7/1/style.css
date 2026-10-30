@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.a{
+    text-align: center;
+}
+
+.mayu{
+    text-align: center;
+    color: green;
+}
+
+div{
+    background-color: aqua;
+    border-radius: 0cm;
+    height: 220px;
+    width: 400px;
+
+}
+
+h2{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li{
+    color: rgb(171, 29, 29);
+}
+
+.kk::before{
+    content:"Tip:";
+    color: green;
+}
+
+a{
+    text-decoration:none ;
+}
